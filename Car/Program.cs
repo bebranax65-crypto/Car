@@ -9,7 +9,7 @@ namespace ConsoleApp2
         public car()
         {
             brand = "audi";
-            FoundationYear = 2000;
+            FoundationYear = 2020;
         }
         static void Main(string[] args)
         {
